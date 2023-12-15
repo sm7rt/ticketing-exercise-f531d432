@@ -15,8 +15,8 @@ Then pull the main branch to your local machine.
 
 Create a local branch to commit your code to.  This is the branch that you'll be pushing out to your personal git. 
 ```bash
-git clone https://github.com/your-username/ticketing-exercise-2d7f9f0f.git
-cd ticketing-exercise-2d7f9f0f
+git clone https://github.com/your-username/ticketing-exercise-f531d432.git
+cd ticketing-exercise-f531d432
 ```
 
 ## Requirements
